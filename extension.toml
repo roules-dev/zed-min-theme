@@ -1,7 +1,7 @@
-id = "min-theme"
-name = "Min Theme"
+id = "roules-min-theme"
+name = "Roules Min Theme"
 version = "0.2.1"
 schema_version = 1
-authors = ["Phillip Bronzel <hello@phib.ro>"]
-description = "A port of miguelsolorio's Min Theme for Zed."
-repository = "https://github.com/phibr0/zed-min-theme"
+authors = ["roules"]
+description = "A port of miguelsolorio's Min Theme for Zed. by Phillip Bronzel, adapted by roules"
+repository = "https://github.com/roules-dev/roules-min-theme"
